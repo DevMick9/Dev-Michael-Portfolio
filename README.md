@@ -44,4 +44,4 @@ Our team is passionate about delivering clean, modern, and responsive websites t
 To add your image at the top, use:
 
 ```markdown
-<img src="https://i.postimg.cc/nzpspKs4/Chat-GPT-Image-Jul-28-2025-09-01-30-AM.png width="120" height="120">
+<img src="https://i.postimg.cc/nzpspKs4/Chat-GPT-Image-Jul-28-2025-09-01-30-AM.png](https://github.com/DevMick9/Dev-Michael-Portfolio/blob/main/ChatGPT%20Image%20Jul%2028,%202025,%2009_01_30%20AM.png?raw=true" width="120" height="120">
